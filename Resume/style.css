@@ -1,0 +1,88 @@
+
+
+@font-face {
+    font-family: 'RobotoBlack';
+    src: url('fonts/RobotoBlack.eot');
+    src: url('fonts/RobotoBlack.eot') format('embedded-opentype'),
+    url('fonts/RobotoBlack.woff2') format('woff2'),
+    url('fonts/RobotoBlack.woff') format('woff'),
+    url('fonts/RobotoBlack.ttf') format('truetype'),
+    url('fonts/RobotoBlack.svg#RobotoBlack') format('svg');
+}
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('fonts/RobotoBold.eot');
+    src: url('fonts/RobotoBold.eot') format('embedded-opentype'),
+    url('fonts/RobotoBold.woff2') format('woff2'),
+    url('fonts/RobotoBold.woff') format('woff'),
+    url('fonts/RobotoBold.ttf') format('truetype'),
+    url('fonts/RobotoBold.svg#RobotoBold') format('svg');
+}
+
+@font-face {
+    font-family: 'RobotoLight';
+    src: url('fonts/RobotoLight.eot');
+    src: url('fonts/RobotoLight.eot') format('embedded-opentype'),
+    url('fonts/RobotoLight.woff2') format('woff2'),
+    url('fonts/RobotoLight.woff') format('woff'),
+    url('fonts/RobotoLight.ttf') format('truetype'),
+    url('fonts/RobotoLight.svg#RobotoLight') format('svg');
+}
+
+
+
+
+section#main {
+    padding-left: 50px;
+    padding-right: 60px;
+    background-image: url("img/bn.jpg");
+    background-repeat: repeat;
+    padding-top: 40px;
+    /*height: 1600px;*/
+}
+.photo{
+
+    /*height: 380px;*/
+    background-color: ;
+}
+.header{
+
+    /*height: 380px;*/
+    background-color: ;
+
+}
+.info{
+    margin: 10px;
+    background-color: ;
+    padding-left: 50px;
+    /*height:400px;*/
+}
+
+.header h1 {
+    font-family:'RobotoBold' ;
+    font-size: 44px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

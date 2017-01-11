@@ -1,0 +1,288 @@
+@media screen and (max-width: 1350px) {
+/* index */
+#content .wrap.final {
+padding: 10px 10px;
+}
+
+.leftcol .content img {
+width: auto;
+}
+
+.wrap .leftcol-crop{
+    height: 120px;
+    width: 99%;
+  }
+.ads5, .ads3 {
+display: none;
+  }
+
+.wrap .leftcol-crop .social {
+margin-top: 0px;
+padding: 18px;
+}
+.wrap .leftcol-crop .social .share {
+margin: 0 0 10px ;
+}
+
+.wrap .leftcol-crop .croptext {
+padding: 25px 0 0 30px;
+width: 500px
+}
+    
+.wrap .leftcol-crop .croptext ul {
+width: 500px
+}
+    
+.wrap .leftcol-crop .blue {
+height: 100px;
+width: 100%;
+}
+
+.wrap .rightcol-crop{
+   margin: 0px;
+}
+
+.mCSB_container {
+margin-right: 0 !important;
+}
+.leftcol-crop .croptext {
+  float: left;
+}
+
+.wrap .inputholder {
+  padding-top: 40px;
+}
+}
+
+@media screen and (max-width: 1270px) {
+ .ads1{
+  display: none;
+}   
+    
+}
+
+@media screen and (max-width: 1250px) {
+
+.wrap .rightcol {
+margin-right: 30px;
+}
+
+
+/* crop */
+.wrap .rightcol-final {
+ margin-left: 20px;
+ padding-top: 0;
+}
+.app_link {
+ display: none;
+ }
+
+
+}
+
+@media screen and (max-width: 1000px) {
+
+    #header .stat p.stat1 {
+    padding-top: 0px;
+    background: none;
+    display: block;
+}
+    
+    #header .stat {
+padding-top: 0px;
+}
+
+.mob_cont {
+  display: block
+}
+.wrap .leftcol {
+ float: left;
+}
+
+.wrap .rightcol-final {
+ margin-left: 10px;
+ padding-top: 0;
+}
+.wrap .rightcol {
+ margin-left: 60%;
+}
+
+}
+
+@media screen and (max-width: 999px) {
+
+/* index */
+#pagewrap {
+      width: 100%
+   }
+
+ .rightcol-final #tabsContent, .rightcol-final #tabNavs {
+     display: none;
+   }
+
+.ads1{
+  display: none;
+}
+
+#tabs {
+position: relative;
+width: 255px;
+height: 65px;
+margin-top: 16px;
+float: none;
+}
+
+.leftcol .content img {
+margin: 20px auto;
+width: 600px;
+}
+#content .wrap, #content .wrap.final {
+padding: 10px 0 30px 10px;
+}
+#content, .tabs, #footer  {
+
+padding: 0;
+   }
+.mob_cont, #wrap2, .uploadHint {
+  display: none
+}
+.wrap .leftcol {
+ float: none;
+width: 85%;
+margin: 0 auto;
+}
+
+.wrap .rightcol {
+ margin: 0 auto;
+width: 85%;
+}
+#dropbox {
+padding-bottom: 50px;
+}
+#header .stat {
+float: right;
+margin-right: 40px;
+}
+
+.col3, .col3.mid {
+ display: none;
+}
+#copy {
+  width: 90%;
+margin: 0 auto;
+}
+
+#header {
+    height: 200px;
+} 
+    
+#header #site-logo {
+padding-left: 185px;
+    padding-top: 19px;
+}
+    
+#header #site-logo a img {
+    width: 600px;
+    height: 141px;
+}
+    
+#header .stat {
+display: none;
+}
+    
+#circle .content img {
+width: 790px;
+height: 365px;
+}
+    
+    
+#dropbox {
+background: none;
+box-shadow: none;
+-o-box-shadow: none;
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+max-width: none; 
+}
+
+#dropbox .message {
+    width: 500px;
+}    
+    
+#dropbox .message center {
+   color: #fff;
+}
+#dropbox .message input.submit-but, .chooze
+    {
+width: 400px;
+font-size: 30px;
+    }
+    
+#dropbox .message .chooze div.input-text, .chooze2 div.input-text, a.to-crop, a.to-crop2{
+    font-size: 30px;
+}
+ #dropbox .message input.chooze-input {
+    margin-top: -60px;
+    width: 447px;
+}
+    .tabs-content {
+        display: none;
+    }
+    .final_but {
+display: block;
+    }    
+}
+
+@media screen and (max-width: 960px) {
+
+
+
+.leftcol .content img {
+    margin-left: 0;
+}
+
+.shareindex2 {
+    padding-top: 30px;
+    margin: 0;
+    }
+
+.rightcol #dropbox {
+     width: 100%
+   }
+
+.rightcol #dropbox .message{
+     width: 100%
+   }
+
+.chooze {
+     padding: 15px 10px;
+   }
+
+
+}
+
+
+@media screen and (max-width: 930px) {
+
+
+   .rightcol-final #tabsContent, .rightcol-final #tabNavs {
+     display: none;
+   }
+
+}
+
+img {
+   max-width: 100%;
+   height: auto;
+   width: auto\9; /* ie8 */
+}
+.crop-area img {
+  max-width: none;
+}
+
+.video embed,
+.video object,
+.video iframe {
+   width: 100%;
+   height: auto;
+}
